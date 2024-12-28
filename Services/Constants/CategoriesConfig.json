@@ -1,0 +1,100 @@
+[
+  {
+    "Value": 1,
+    "Label": "Income",
+    "Level": 1,
+    "Child": [
+      {
+        "Value": 2,
+        "Label": "Income"
+      },
+      {
+        "Value": 3,
+        "Label": "Other Income"
+      }
+    ]
+  },
+  {
+    "Value": 4,
+    "Label": "Expenses",
+    "Level": 1,
+    "Child": [
+      {
+        "Value": 5,
+        "Label": "Expense"
+      },
+      {
+        "Value": 6,
+        "Label": "Other Expense"
+      }
+    ]
+  },
+  {
+    "Value": 7,
+    "Label": "Asset",
+    "Level": 2,
+    "Child": [
+      {
+        "Value": 8,
+        "Label": "Other Current Asset"
+      },
+      {
+        "Value": 9,
+        "Label": "Fixed Asset"
+      }
+    ]
+  },
+  {
+    "Value": 10,
+    "Label": "Liability",
+    "Level": 2,
+    "Child": [
+      {
+        "Value": 11,
+        "Label": "Short Term Liability"
+      },
+      {
+        "Value": 12,
+        "Label": "Long Term Liability"
+      },
+      {
+        "Value": 13,
+        "Label": "Other Short Term Liability"
+      },
+      {
+        "Value": 14,
+        "Label": "Other Long Term Liability"
+      }
+    ]
+  },
+  {
+    "Value": 15,
+    "Label": "Bank",
+    "Level": 2
+  },
+  {
+    "Value": 16,
+    "Label": "Equity",
+    "Level": 2
+  },
+  {
+    "Value": 17,
+    "Label": "Credit Card",
+    "Level": 2
+  },
+  {
+    "Value": 18,
+    "Label": "Account Recievable",
+    "Level": 3
+  },
+  {
+    "Value": 19,
+    "Label": "Account Payable",
+    "Level": 3
+  },
+  {
+    "Value": 20,
+    "Label": "Cost of Goods Sold (COGS)",
+    "Level": 3
+  }
+]

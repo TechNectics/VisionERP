@@ -1,0 +1,404 @@
+{
+  "Accounts": [
+    {
+      "Id": -1,
+      "Title": "All accounts",
+      "Category": "All"
+    },
+    {
+      "Id": -2,
+      "Title": "Multiple accounts...",
+      "Category": "Multiple"
+    },
+    {
+      "Id": -3,
+      "Title": "Subcontractors Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -4,
+      "Title": "Tools and Small Equipment",
+      "Category": "Expense"
+    },
+    {
+      "Id": -5,
+      "Title": "Worker's Compensation Insurance",
+      "Category": "Expense"
+    },
+    {
+      "Id": -6,
+      "Title": "Auto and Truck Expenses",
+      "Category": "Expense"
+    },
+    {
+      "Id": -7,
+      "Title": "Bank Service Charges",
+      "Category": "Expense"
+    },
+    {
+      "Id": -8,
+      "Title": "Business Licenses and Permits",
+      "Category": "Expense"
+    },
+    {
+      "Id": -9,
+      "Title": "Computer and Internet Expenses",
+      "Category": "Expense"
+    },
+    {
+      "Id": -10,
+      "Title": "Depreciation Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -11,
+      "Title": "Insurance Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -12,
+      "Title": "Interest Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -13,
+      "Title": "Meals and Entertainment",
+      "Category": "Expense"
+    },
+    {
+      "Id": -14,
+      "Title": "Office Supplies",
+      "Category": "Expense"
+    },
+    {
+      "Id": -15,
+      "Title": "Payroll Expenses",
+      "Category": "Expense"
+    },
+    {
+      "Id": -16,
+      "Title": "Professional Fees",
+      "Category": "Expense"
+    },
+    {
+      "Id": -17,
+      "Title": "Rent Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -18,
+      "Title": "Repairs and Maintenance",
+      "Category": "Expense"
+    },
+    {
+      "Id": -19,
+      "Title": "Telephone Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -20,
+      "Title": "Utilities",
+      "Category": "Expense"
+    },
+    {
+      "Id": -21,
+      "Title": "Ask My Accountant",
+      "Category": "Other Expense"
+    },
+    {
+      "Id": -22,
+      "Title": "Other Expense",
+      "Category": "Other Expense"
+    },
+    {
+      "Id": -23,
+      "Title": "Equipment Rental for Jobs",
+      "Category": "Income"
+    },
+    {
+      "Id": -24,
+      "Title": "Job Income",
+      "Category": "Income"
+    },
+    {
+      "Id": -25,
+      "Title": "Job Materials Purchased",
+      "Category": "Cost of Goods Sold"
+    },
+    {
+      "Id": -26,
+      "Title": "Other Job Related Costs",
+      "Category": "Expense"
+    },
+    {
+      "Id": -27,
+      "Title": "Subcontractors Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -28,
+      "Title": "Tools and Small Equipment",
+      "Category": "Cost of Goods Sold"
+    },
+    {
+      "Id": -29,
+      "Title": "Worker's Compensation Insurance",
+      "Category": "Cost of Goods Sold"
+    },
+    {
+      "Id": -30,
+      "Title": "Auto and Truck Expenses",
+      "Category": "Expense"
+    },
+    {
+      "Id": -31,
+      "Title": "Bank Service Charges",
+      "Category": "Expense"
+    },
+    {
+      "Id": -32,
+      "Title": "Business Licenses and Permits",
+      "Category": "Expense"
+    },
+    {
+      "Id": -33,
+      "Title": "Computer and Internet Expenses",
+      "Category": "Expense"
+    },
+    {
+      "Id": -34,
+      "Title": "Depreciation Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -35,
+      "Title": "Insurance Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -36,
+      "Title": "Interest Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -37,
+      "Title": "Meals and Entertainment",
+      "Category": "Expense"
+    },
+    {
+      "Id": -38,
+      "Title": "Office Supplies",
+      "Category": "Expense"
+    },
+    {
+      "Id": -39,
+      "Title": "Payroll Expenses",
+      "Category": "Expense"
+    },
+    {
+      "Id": -40,
+      "Title": "Professional Fees",
+      "Category": "Expense"
+    },
+    {
+      "Id": -41,
+      "Title": "Rent Expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -42,
+      "Title": "Repairs and Maintenance",
+      "Category": "Expense"
+    },
+    {
+      "Id": -43,
+      "Title": "Accumulated Depreciation",
+      "Category": "Fixed Asset"
+    },
+    {
+      "Id": -44,
+      "Title": "Construction Equipment",
+      "Category": "Fixed Asset"
+    },
+    {
+      "Id": -45,
+      "Title": "Furniture and Equipment",
+      "Category": "Fixed Asset"
+    },
+    {
+      "Id": -46,
+      "Title": "Accounts Payable",
+      "Category": "Accounts Payable"
+    },
+    {
+      "Id": -47,
+      "Title": "Customer Deposits Received",
+      "Category": "Other Current Liability"
+    },
+    {
+      "Id": -48,
+      "Title": "Payroll Liabilities",
+      "Category": "Other Current Liability"
+    },
+    {
+      "Id": -49,
+      "Title": "Member 1 Draws",
+      "Category": "Equity"
+    },
+    {
+      "Id": -50,
+      "Title": "Member 1 Equity",
+      "Category": "Equity"
+    },
+    {
+      "Id": -51,
+      "Title": "Member 2 Draws",
+      "Category": "Equity"
+    },
+    {
+      "Id": -52,
+      "Title": "Member 2 Equity",
+      "Category": "Equity"
+    },
+    {
+      "Id": -53,
+      "Title": "Opening Balance Equity",
+      "Category": "Equity"
+    },
+    {
+      "Id": -54,
+      "Title": "Retained Earnings",
+      "Category": "Equity"
+    },
+    {
+      "Id": -55,
+      "Title": "Account Code",
+      "Category": "Income"
+    },
+    {
+      "Id": -56,
+      "Title": "Job Income",
+      "Category": "Income"
+    },
+    {
+      "Id": -57,
+      "Title": "Equipment Rental for Jobs",
+      "Category": "Cost of Goods Sold"
+    },
+    {
+      "Id": -58,
+      "Title": "All equity and income/expense",
+      "Category": "All"
+    },
+    {
+      "Id": -59,
+      "Title": "All long-term liabilities",
+      "Category": "All"
+    },
+    {
+      "Id": -60,
+      "Title": "All equity accounts",
+      "Category": "Equity"
+    },
+    {
+      "Id": -61,
+      "Title": "All income/expense accounts",
+      "Category": "Income/Expense"
+    },
+    {
+      "Id": -62,
+      "Title": "All ordinary income/expense",
+      "Category": "Income/Expense"
+    },
+    {
+      "Id": -63,
+      "Title": "All ordinary income/cogs",
+      "Category": "Income/COGS"
+    },
+    {
+      "Id": -64,
+      "Title": "All ordinary income accounts",
+      "Category": "Income"
+    },
+    {
+      "Id": -65,
+      "Title": "All cost-of-sales accounts",
+      "Category": "Cost of Sales"
+    },
+    {
+      "Id": -66,
+      "Title": "All ordinary expense accounts",
+      "Category": "Expense"
+    },
+    {
+      "Id": -67,
+      "Title": "All other income/expense",
+      "Category": "Income/Expense"
+    },
+    {
+      "Id": -68,
+      "Title": "All other income",
+      "Category": "Income"
+    },
+    {
+      "Id": -69,
+      "Title": "All other expense",
+      "Category": "Expense"
+    },
+    {
+      "Id": -70,
+      "Title": "All bank, a/r, a/p, u/f",
+      "Category": "Asset/Liability"
+    },
+    {
+      "Id": -71,
+      "Title": "Income and other income accounts",
+      "Category": "Income"
+    },
+    {
+      "Id": -72,
+      "Title": "Expense and other expense accounts",
+      "Category": "Expense"
+    },
+    {
+      "Id": -73,
+      "Title": "A/P or credit cards",
+      "Category": "Accounts Payable"
+    },
+    {
+      "Id": -74,
+      "Title": "All bank and u/f",
+      "Category": "Asset/Liability"
+    },
+    {
+      "Id": -75,
+      "Title": "All a/p and sales tax",
+      "Category": "Tax"
+    },
+    {
+      "Id": -76,
+      "Title": "Current assets and expenses",
+      "Category": "Asset/Expense"
+    },
+    {
+      "Id": -77,
+      "Title": "All A/R and A/P",
+      "Category": "Asset/Liability"
+    },
+    {
+      "Id": -78,
+      "Title": "Repairs and Maintenance",
+      "Category": "Expense"
+    },
+    {
+      "Id": -79,
+      "Title": "Other Job Related Costs",
+      "Category": "Expense"
+    },
+    {
+      "Id": -80,
+      "Title": "All balance sheet accounts",
+      "Category": "Asset/Liability"
+    }
+  ]
+}
